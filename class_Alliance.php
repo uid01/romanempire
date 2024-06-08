@@ -1,4 +1,6 @@
 <?php
+
+#hey is this Dmalf from roman empire/emross? if so, we used to play together toward the end there, and I was wondering if you still had the code for holy crusades and such? I really want to work on it because I want to play these damn games again lol
 class Alliance extends Common {
 	public $playerInfo;
 	public $server;
